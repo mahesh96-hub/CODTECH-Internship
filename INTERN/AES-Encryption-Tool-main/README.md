@@ -6,9 +6,9 @@
 
 **COMPANY: CODETECH IT SOLUTIONS**
 
-**NAME: GYANMOTAY VIKAS**
+**NAME: K Mahesh Reddy**
 
-**INTERN ID: CT12RGV**
+**INTERN ID: CTIS2022**
 
 **DOMAIN: CYBER SECURITY & ETHICAL HACKING**
 
@@ -109,15 +109,10 @@
 
 📌 **Gyanmotay Vikas**  
 
-🔗 **GitHub:** [github.com/VikasOffical](https://github.com/VikasOffical)  
-🔗 **LinkedIn:** [linkedin.com/in/gyanmotay-vikas-62471126b](https://www.linkedin.com/in/gyanmotay-vikas-62471126b/)  
-
+🔗 **GitHub:**   https://github.com/mahesh96-hub
+🔗 **LinkedIn:** https://www.linkedin.com/in/maheshreddy27
 
 # **⭐ Support & Feedback**
 
 **If you like this project, consider giving it a star ⭐!Got feedback? Feel free to open an issue or reach out!**
-
-# **OUTPUT**
-
-![Image](https://github.com/user-attachments/assets/f721f283-90a8-4934-ae5f-3b06aa98cd1a)
 
