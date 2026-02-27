@@ -107,7 +107,7 @@
 
 ## 👨‍💻 Author
 
-📌 **Gyanmotay Vikas**  
+📌 **K MAHESH REDDY*  
 
 🔗 **GitHub:**   https://github.com/mahesh96-hub
 🔗 **LinkedIn:** https://www.linkedin.com/in/maheshreddy27
