@@ -32,14 +32,8 @@ SQL Injection is one of the most dangerous vulnerabilities in web applications, 
 ##Ethical Considerations
 Ensure that you have proper authorization before scanning any web applications. Unauthorized vulnerability scanning is illegal and may result in severe legal consequences.
 
-## Authors
-# M.G. Wooshan Rukmal Gamage
-**Undergraduate | Computer Science**  
-University of Westminster
-
-**LinkedIn**:  [Wooshan Gamage](https://www.linkedin.com/in/wooshan-gamage-5b03b91bb/)  
-**GitHub**:  [WooshanGamage](https://github.com/WooshanGamage)  
-**Medium**:  [WooshanGamage](https://medium.com/@wooshangamage)
+## Author
+#K Mahesh Reddy
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -50,21 +44,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Libraries:
   - `requests`
   - `BeautifulSoup4`
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/WooshanGamage/sql-injection-scanner.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd sql-injection-scanner
-    ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
