@@ -135,9 +135,7 @@ Add progress bar for large file hashing
 
 🧑‍💻 Author
 
-Developed by: Dr. Nadeem Majeed
-
-📧 nadeem.majeed@pucit.edu.pk
+Developed by: K Mahesh Reddy
 
 🌐 GitHub Profile
 
